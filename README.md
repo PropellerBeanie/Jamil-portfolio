@@ -1,6 +1,3 @@
-# Jamil's portfolio
-
-
 <h3>Сайт магазина электроники</h3>
 <a href="https://propellerbeanie.github.io/217896-device-28/">link "Device"</a>
 <h4>Сверстаны сраницы:</h4>
