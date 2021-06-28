@@ -1,5 +1,5 @@
 <h3>Сайт магазина электроники</h3>
-<a href="https://propellerbeanie.github.io/217896-device-28/">link "Device"</a>
+<a href="https://propellerbeanie.github.io/device-build/">link "Device"</a>
 <h4>Сверстаны сраницы:</h4>
 <ul>
   <li>главная</li>
